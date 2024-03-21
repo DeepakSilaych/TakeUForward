@@ -6,13 +6,11 @@ This is a web application that facilitates the submission and display of code sn
 
 * **Backend:** Express.js, MySQL, Redis
 * **Frontend:** Next.js
-* **APIs:** Judge0
 
 ## Features
 
 * Submit code snippets with username, code language, and standard input.
 * Display submitted code snippets in a tabular format.
-* Execute submitted code snippets using the Judge0 API.
 * Cache code snippets data using Redis.
 
 ## Setup Instructions
